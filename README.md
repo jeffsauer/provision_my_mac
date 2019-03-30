@@ -21,13 +21,14 @@ brew cask install little-snitch
 brew install ansible
 brew cask install osxfuse
 brew cask install enpass
+brew cask install virtualbox
+brew cask install virtualbox-extension-pack
 ```
 7. Install commonly used apps as casks
 ```
 brew cask install google-chrome
 brew cask install visual-studio-code
-brew cask install virtualbox
-brew cask install virtualbox-extension-pack
+
 brew cask install iterm2
 brew cask install balenaetcher
 brew cask install the-unarchiver
