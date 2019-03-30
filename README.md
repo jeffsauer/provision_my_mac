@@ -15,10 +15,31 @@ xcode-select --install
   brew update
   brew doctor
   ```
-6. Install ansible
+6. Install some apps that might require a password during installation
 ```
+brew cask install little-snitch
 brew install ansible
+brew cask install osxfuse
+brew cask install enpass
 ```
+7. Install commonly used apps as casks
+```
+brew cask install google-chrome
+brew cask install visual-studio-code
+brew cask install virtualbox
+brew cask install virtualbox-extension-pack
+brew cask install iterm2
+brew cask install balenaetcher
+brew cask install the-unarchiver
+brew cask install dropbox
+brew cask install libreoffice
+brew cask install nomachine
+brew cask install caffeine
+brew cask install gitkraken
+brew cask install tigervnc-viewer
+brew cask install quicken
+```
+
 
 to be continued...
 
