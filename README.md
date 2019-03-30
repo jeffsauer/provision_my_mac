@@ -23,6 +23,7 @@ brew cask install osxfuse
 brew cask install enpass
 brew cask install virtualbox
 brew cask install virtualbox-extension-pack
+brew cask install vagrant
 ```
 7. Install commonly used apps as casks
 ```
